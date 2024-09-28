@@ -1,6 +1,0 @@
-Il punteggio di partenza è di: 1000 punti
-Ogni moneta posseduta corrisponde ad una "unità" di coda
-
-T - Trapano: fornisce 3 utilizzi del trapano per bucare le pareti
-$ - Monete: una moneta equivale a 10 punti
-! - Imprevisti: ogni imprevisto dimezza la lunghezza della coda (e quindi il numero di monete)
